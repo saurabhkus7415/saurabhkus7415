@@ -31,6 +31,8 @@
 
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react)
+
 
 #### 🤖 AI / ML (Learning Journey):
 
