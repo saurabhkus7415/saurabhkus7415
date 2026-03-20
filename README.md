@@ -4,7 +4,7 @@
 
 ### 🔥 About Me
 
-* 💻 I’m a **Full Stack Developer** with **3+ years of experience** specializing in **Angular, Next.js, React, React Native, Node.js, and MongoDB**.
+* 💻 I’m a **Full Stack Developer** with **4+ years of experience** specializing in **Angular, Next.js, React, React Native, Node.js, and MongoDB**.
 * 🌱 Currently exploring **Artificial Intelligence and Machine Learning** to build intelligent applications.
 * 🚀 Passionate about solving real-world problems with technology and continuously expanding my skill set.
 
